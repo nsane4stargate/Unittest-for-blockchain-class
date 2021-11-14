@@ -18,7 +18,7 @@ class TestBlockchain(unittest.TestCase):
 
         # Checks to see if the data from the last block added 
         # is the same as the data that was passed as a parameter
-        self.assertEqual(blockchain.chain[-1].data, data, msg='The last block add to the chain has different data')
+        self.assertEqual(blockchain.chain[-1].data, data, msg='The last block added to the chain has different data')
 
 
 if __name__=='__main__':
