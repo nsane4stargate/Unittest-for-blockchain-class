@@ -1,5 +1,5 @@
 # Unittest-for-blockchain-class
- This repo is an alternative to using pytest when all else fails
+ This repo is an alternative to using pytest when all else fails.
  It uses python unittest instead and can be used as a starter for writting more 
  unittest and adding them in later.
  
